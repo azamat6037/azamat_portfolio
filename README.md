@@ -1,2 +1,2 @@
 # azamat_portfolio
-In this repository, I have uploaded my personally written code in Python, R and SQL. 
+In this repository, I upload my personal projects written in Python, R and SQL. 
